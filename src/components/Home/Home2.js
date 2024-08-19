@@ -9,11 +9,15 @@ import {
     AiOutlineMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import Slideshow from "./Slideshow";
 
 function Home2() {
-  return (
+
+    return (
+    
     <Container fluid className="home-about-section" id="about">
-      <Container>
+            <Container>
+            
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
@@ -82,7 +86,8 @@ function Home2() {
               
             </ul>
           </Col>
-        </Row>
+               
+                </Row>
       </Container>
     </Container>
   );

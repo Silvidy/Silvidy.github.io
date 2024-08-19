@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Images",
+    "\\public",
+    "\\src",
+    "\\src\\Assets",
+    "\\src\\components",
+    "\\src\\components\\About",
+    "\\src\\components\\Home",
+    "\\src\\components\\Projects",
+    "\\src\\components\\Resume"
   ],
-  "SelectedNode": "\\C:\\Users\\blyng\\Source\\Repos\\Silvidy.github.io",
   "PreviewInSolutionExplorer": false
 }
